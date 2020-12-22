@@ -1,0 +1,24 @@
+{
+  "name": "madeireira",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "google-maps-react": "^2.0.6",
+    "next": "10.0.3",
+    "next-images": "^1.6.2",
+    "nuka-carousel": "^4.7.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.1.0",
+    "react-slideshow-image": "^3.4.2",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
